@@ -1,6 +1,6 @@
 # Automated Version Management and CI/CD Optimization in Large-Scale Python Monorepos
 
-> Based on the research paper by **Divyanshu Sharma** and **Preeti Saini**, Department of Computer Science and Engineering, Chitkara University, Punjab, India.
+> Based on the research paper by **Divyanshu Sharma**, Department of Computer Science and Engineering, Chitkara University, Punjab, India.
 
 ---
 
