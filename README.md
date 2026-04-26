@@ -237,6 +237,5 @@ The dominant win is dependency resolution: resolving once for the whole monorepo
 ## Authors
 
 - **Divyanshu Sharma** — divyanshu1538.be22@chitkara.edu.in
-- **Preeti Saini** — preeti.saini@chitkara.edu.in
 
 Department of Computer Science and Engineering, Chitkara University, Punjab, India
